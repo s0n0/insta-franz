@@ -5,9 +5,9 @@
 ![Imagem](http://meetfranz.com/images/favicon-8d94f384b0.png)
 
 ```
-    [+] AUTOR:        Jhonatan Alax
-    [+] SITE:         http://s0n0.github.io
-    [+] EMAIL:        jhonatan4lax@gmail.com
+    [+] AUTOR:        Jhonatan Icibaci
+    [+] SITE:         https://icibaci.me
+    [+] EMAIL:        jhonatan@icibaci.me
     [+] GITHUB:       https://github.com/s0n0
     [+] TELEGRAM:     @jhonatan4lax
 ```
