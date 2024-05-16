@@ -5,9 +5,7 @@
 ![Imagem](http://meetfranz.com/images/favicon-8d94f384b0.png)
 
 ```
-    [+] AUTOR:        Jhonatan Icibaci
-    [+] SITE:         https://icibaci.me
-    [+] EMAIL:        jhonatan@icibaci.me
+    [+] AUTOR:        Jhonatan
     [+] GITHUB:       https://github.com/s0n0
     [+] TELEGRAM:     @jhonatan4lax
 ```
